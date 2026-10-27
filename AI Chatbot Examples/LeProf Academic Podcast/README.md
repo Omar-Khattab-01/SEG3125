@@ -1,41 +1,14 @@
-### ☕ **Espresso with LeProf – Bilingual Academic Chatbot & Podcast Generator** 🎙️  
+# Espresso with LeProf
 
-🔹 **Developed for educational purposes** 🎯  
-A chatbot designed to assist users with **academic questions** in both **English and French**. Users can chat about a topic and generate a **custom podcast** based on their discussions.  
+I keep this example in my SEG3125 course collection as a reference for a bilingual academic chat and podcast interface.
 
----
+## What the example demonstrates
 
-### 🚀 **Features**  
-✅ **Bilingual Support** – Chat in **English & French**  
-✅ Answers **academic questions** across multiple subjects  
-✅ Helps users **understand concepts and explore ideas**  
-✅ Generates **custom podcasts** from chat discussions  
-✅ **User-friendly UI** powered by Gradio  
+- Chat about academic topics.
+- Generate English or French podcast scripts from a conversation.
+- Present a generated transcript and audio in a Gradio interface.
+- Offer a separate topic-based podcast view.
 
----
+[Original hosted demo on Rahatara's Hugging Face profile](https://huggingface.co/spaces/Rahatara/EspressoWithLeProfLite)
 
-### 🔗 **Try it Online**  
-👉 **[Click Here to Use the Chatbot](https://huggingface.co/spaces/Rahatara/EspressoWithLeProfLite)**  
-
----
-
-### 📂 **Files**  
-- **`app.py`** - The main application script  
-- **`requirements.txt`** - Required dependencies  
-- **`Academic_KB.pdf`** - Knowledge base used for academic insights  
-
----
-
-### ☁️ **Deploy on Hugging Face**  
-1️⃣ Upload **`.py`** files and **`requirements.txt`** to your **Hugging Face Space**  
-2️⃣ Start the Space and explore the chatbot & podcast generator  
-
----
-
-### 🔑 **API Requirement**  
-🚨 **Requires a [Groq API key](https://console.groq.com/keys)** for AI-powered bilingual responses and podcast generation  
-
----
-
-### 📜 **Disclaimer**  
-This chatbot is based on publicly available academic resources. It is **not a replacement for professional tutoring**. Use it responsibly. 🎓
+This is a course reference example, distinct from my own linked projects. Generated academic explanations need review and do not replace professional tutoring.

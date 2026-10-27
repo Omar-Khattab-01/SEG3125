@@ -1,9 +1,16 @@
-🚀 **Projects Developed:**  
+# SEG3125 Projects and Examples
 
-- 🦷 **BrightSmile Dental Clinic Website** – A fully responsive and user-friendly dental clinic website.
-  
-  🔗 [GitHub Repository](https://github.com/Omar-Khattab-01/BrightSmile)  
+I keep this repository as a collection of user-interface coursework and reference examples. It includes basic web-design exercises, a website prototype, and examples of conversational interfaces.
 
-- 🤖 **GymBro AI Chatbot** – An AI-powered fitness assistant providing personalized workout and meal plans.
-  
-  🔗 [GitHub Repository](https://github.com/Omar-Khattab-01/GymBroChatbot)  
+## My related projects
+
+- [BrightSmile Dental Clinic](https://github.com/Omar-Khattab-01/BrightSmile): A multi-page clinic website prototype with a guided booking form.
+- [GymBro Chatbot](https://github.com/Omar-Khattab-01/GymBroChatbot): A conversational fitness and nutrition interface built with Gradio.
+
+## Repository contents
+
+- **Web-design examples:** Small HTML, CSS, JavaScript, and Bootstrap exercises.
+- **Website prototype:** A separate HTML, CSS, and JavaScript prototype.
+- **AI chatbot examples:** Academic podcast, storyboard, and conversational-support examples retained as course references.
+
+The reference examples are distinct from my linked projects. Their original demo links remain in the relevant project overviews.
